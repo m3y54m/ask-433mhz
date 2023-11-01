@@ -1,6 +1,6 @@
-# Getting Started with ASK 433 MHz Modules
+# Getting Started with Cheap 433 MHz ASK Modules
 
-# Transmitter Module (FS1000A)
+## Transmitter Module (FS1000A)
 
 Specifications:
 - Transmitter Operating Voltage: +5V only
@@ -13,7 +13,7 @@ Specifications:
 
 ![image](https://github.com/m3y54m/ask-433mhz/assets/1549028/d3e87a13-86c7-4371-b116-8d3efb8f7af9)
 
-# Receiver Module (RXB45)
+## Receiver Module (RXB45)
 
 Specifications:
 - Receiver sensitivity: -115dBm
@@ -28,8 +28,23 @@ Specifications:
 
 ![image](https://github.com/m3y54m/ask-433mhz/assets/1549028/6b57c438-4e56-4577-ac39-fa91b3f6c80d)
 
+## Sample Application
+
+### Wireless Switch:
+
+- [Wireless Switch using 433MHz ASK Modules](https://theorycircuit.com/wireless-switch-using-rf-ask-module/)
+
+![image](https://github.com/m3y54m/ask-433mhz/assets/1549028/822388df-d26d-4ea9-98e6-bb3a090a20f4)
+
+### Wireless Digital Data Transmission (Low data rate):
+
+![image](https://github.com/m3y54m/ask-433mhz/assets/1549028/a729b29c-b96b-4128-ad09-c9c3d83c5049)
+
+- [How 433MHz RF Tx-Rx Modules Work & Interface with Arduino UNO](https://www.circuits-diy.com/how-433mhz-rf-tx-rx-modules-work-interface-with-arduino-uno/)
+
 ## Resources
 
 - [Communicating with 433MHz OOK/ASK wireless modules (#88)](https://www.youtube.com/watch?v=w6V9NyXwohI)
 - [#628 433MHz Receiver](https://www.youtube.com/watch?v=LWUqSTKqSzk)
 - [FS1000A 433Mhz RF Transmitter Receiver Modules](https://www.circuits-diy.com/fs1000a-433mhz-rf-transmitter-receiver-modules/)
+
